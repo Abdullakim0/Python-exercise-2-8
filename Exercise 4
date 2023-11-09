@@ -1,0 +1,4 @@
+# Task 4
+n = int(input("Enter a natural number (N): "))
+sum_natural = sum(range(1, n + 1))
+print(f"The sum of first {n} natural numbers is: {sum_natural}")
